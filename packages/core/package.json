@@ -1,0 +1,22 @@
+{
+  "name": "@imooc-cli-2022/core",
+  "version": "1.0.0",
+  "description": "imooc-cli-dev core",
+  "author": "yose",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@imooc-cli-2022/utils": "^1.0.0"
+  }
+}
