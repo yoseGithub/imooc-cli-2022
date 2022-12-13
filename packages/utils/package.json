@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-2022/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "imooc-cli-dev utils",
   "author": "yose",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
-  },
-  "gitHead": "93bfe6d04756f43f1ce99a1050bc6629574bc645"
+  }
 }
