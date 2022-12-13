@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-2022/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "imooc-cli-dev core",
   "author": "yose",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@imooc-cli-2022/utils": "^1.0.0"
+    "@imooc-cli-2022/utils": "^1.0.1"
   }
 }
